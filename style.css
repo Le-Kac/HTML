@@ -16,9 +16,11 @@ flex-direction: row;
    top: 10px;
    align-items: right;
    list-style: none;
-   shado:
+   shadow
+
 
 }
+hover
 li a{
   list-style: none;
   text-decoration: none;
